@@ -88,16 +88,16 @@ header .fas {
 }
 
 .home .bg1 {
-    background: #ffffff url(/images/home-bg-1.jpg) no-repeat top;
+    background: #ffffff url(images/home-bg-1.jpg) no-repeat top;
 
 }
 
 .home .bg2 {
-    background: #ffffff url(/images/home-bg-2.jpg) no-repeat top;
+    background: #ffffff url(images/home-bg-2.jpg) no-repeat top;
 }
 
 .home .bg3 {
-    background: #ffffff url(/images/home-bg-3.jpg) no-repeat top;
+    background: #ffffff url(images/home-bg-3.jpg) no-repeat top;
 }
 
 .home .content {
